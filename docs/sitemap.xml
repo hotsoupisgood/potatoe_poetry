@@ -2,137 +2,137 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.com/posts/firstpost/</loc>
+    <loc>https://example.com/potatoe_poetry/posts/firstpost/</loc>
     <lastmod>2018-05-01</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/secondpost/</loc>
+    <loc>https://example.com/potatoe_poetry/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/thirdpost/</loc>
+    <loc>https://example.com/potatoe_poetry/posts/thirdpost/</loc>
     <lastmod>2018-08-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/fourthpost/</loc>
+    <loc>https://example.com/potatoe_poetry/posts/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://example.com/potatoe_poetry/about/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://example.com/potatoe_poetry/posts/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://example.com/potatoe_poetry/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/page-list/</loc>
+    <loc>https://example.com/potatoe_poetry/page-list/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://example.com/potatoe_poetry/tags/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/number-2/</loc>
+    <loc>https://example.com/potatoe_poetry/tags/another-tag/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/another-tag/</loc>
+    <loc>https://example.com/potatoe_poetry/tags/second-tag/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/second-tag/</loc>
+    <loc>https://example.com/potatoe_poetry/tags/posts-with-two-tags/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/posts-with-two-tags/</loc>
+    <loc>https://example.com/potatoe_poetry/tags/number-2/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/_site/404/</loc>
+    <loc>https://example.com/potatoe_poetry/_site/404/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/_site/about/</loc>
+    <loc>https://example.com/potatoe_poetry/_site/about/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/_site/</loc>
+    <loc>https://example.com/potatoe_poetry/_site/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/_site/page-list/</loc>
+    <loc>https://example.com/potatoe_poetry/_site/page-list/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/_site/tags/another-tag/</loc>
+    <loc>https://example.com/potatoe_poetry/_site/tags/another-tag/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/_site/tags/</loc>
+    <loc>https://example.com/potatoe_poetry/_site/tags/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/_site/posts/firstpost/</loc>
+    <loc>https://example.com/potatoe_poetry/_site/posts/firstpost/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/_site/posts/fourthpost/</loc>
+    <loc>https://example.com/potatoe_poetry/_site/posts/fourthpost/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/_site/posts/</loc>
+    <loc>https://example.com/potatoe_poetry/_site/posts/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/_site/posts/secondpost/</loc>
+    <loc>https://example.com/potatoe_poetry/_site/posts/secondpost/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/_site/posts/thirdpost/</loc>
+    <loc>https://example.com/potatoe_poetry/_site/posts/thirdpost/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/_site/tags/number-2/</loc>
+    <loc>https://example.com/potatoe_poetry/_site/tags/number-2/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/_site/tags/posts-with-two-tags/</loc>
+    <loc>https://example.com/potatoe_poetry/_site/tags/posts-with-two-tags/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/_site/tags/second-tag/</loc>
+    <loc>https://example.com/potatoe_poetry/_site/tags/second-tag/</loc>
     <lastmod>2022-06-14</lastmod>
   </url>
 </urlset>
